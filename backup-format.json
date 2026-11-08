@@ -1,0 +1,21 @@
+{
+  "format": "baidoo-encrypted-backup-v1",
+  "cipher": "aes-256-gcm",
+  "archive": "tar.gz",
+  "kdf": "scrypt-N262144-r8-p1",
+  "salt": "e829e9cc11033c18706949c293834b6ed02c27654985559dcfa109b7c6a4f8ac",
+  "nonce": "84a62e093aa6de18a7f5e28c",
+  "tag": "c2e7f295f2bd80e98ef2a91ed267c2ec",
+  "parts": [
+    {
+      "name": "projects-and-settings.enc.001",
+      "bytes": 67108864,
+      "sha256": "92cffbd5c17eb704abab2a7c86e448421c491b11f054eb6e88ed26f9f9433c70"
+    },
+    {
+      "name": "projects-and-settings.enc.002",
+      "bytes": 66041856,
+      "sha256": "4a2d96d34935a684daf11c1c4af5c2984341d3c88aca4395e4ffdf99b7116455"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "format": "baidoo-encrypted-backup-v1",
+  "verifiedUtc": "2026-11-08T14:59:30.096Z",
+  "filesVerified": 8595,
+  "wrongPasswordRejected": true,
+  "passwordSavedOffLaptop": true,
+  "originalFilesDeleted": false,
+  "Parts": [
+    {
+      "Name": "projects-and-settings.enc.001",
+      "Bytes": 67108864,
+      "SHA256": "92cffbd5c17eb704abab2a7c86e448421c491b11f054eb6e88ed26f9f9433c70"
+    },
+    {
+      "Name": "projects-and-settings.enc.002",
+      "Bytes": 66041856,
+      "SHA256": "4a2d96d34935a684daf11c1c4af5c2984341d3c88aca4395e4ffdf99b7116455"
+    }
+  ]
+}
